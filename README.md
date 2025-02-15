@@ -21,7 +21,7 @@ This Flutter app uses **Google ML Kit** for text recognition, **Flutter TTS** fo
 To run this project locally:
 
 1. Clone this repository:
-    git clone https://github.com/yourusername/text-recognition-flutter.git
+    git clone https://github.com/subshegde/Text_Recognition_and_Flutter_tts.git
 
 2. Navigate into the project directory:
     cd extract_text_from_image>
