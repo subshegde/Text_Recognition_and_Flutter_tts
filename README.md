@@ -2,6 +2,8 @@
 
 This Flutter app uses **Google ML Kit** for text recognition, **Flutter TTS** for reading the recognized text aloud, and **Image Picker** to select images from the gallery.
 
+https://github.com/user-attachments/assets/5872af96-d0be-4729-85fe-001e3cd2e797
+
 ## Features
 
 - 📸 **Pick an image** from the gallery using the **Image Picker** package.
